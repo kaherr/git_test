@@ -1,0 +1,2 @@
+Hello, World!
+I am working through the foundations section on The Odin Project.
